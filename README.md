@@ -8,5 +8,5 @@ That's enough for the self-avertisement, here's a lil bit more abt me:
 - 🌱 I’m currently learning JavaScript, React, Python and Japanese🇯🇵
 - 💬 Ask me about Linux! 🐧 or the Gym and MMA's, I'm passionate as hell.
 - 📫 How to reach me: b_clay on Discord.
-- 😄 Pronouns: bar/clay
+- 😄 Pronouns: ```bar/clay```
 - ⚡ Fun fact: Dricus Du Plessis is the goat.
