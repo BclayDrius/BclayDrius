@@ -1,5 +1,5 @@
 
-![Mi Linux Desktop](https://i.imgur.com/5PfmnPv.png)
+![Mi Linux Desktop](https://i.imgur.com/3SefxtL.png)
 
 
 # BclayDrius 👋 | Handsome Linux User 🐧💻
