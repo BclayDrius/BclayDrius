@@ -1,8 +1,6 @@
+# BclayDrius 👋 | Handsome Linux User 🐧💻
 
 ![Mi Linux Desktop](https://i.imgur.com/3SefxtL.png)
-
-
-# BclayDrius 👋 | Handsome Linux User 🐧💻
 
 They say if your Linux desktop looks **legendary**, you better look proportionally *illegal*—like rocking Gentoo + Hyprland while benching in the gym. Yeah… that’s me. But we’re here to change the `cmatrix` and push the limits of both **style and gains**. I invite you to use **MaXGrind** to rice your physique like a Tailwind page. 😉
 
