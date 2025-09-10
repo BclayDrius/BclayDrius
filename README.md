@@ -41,7 +41,7 @@ If you like **ripped code**, **ripped gains**, and **ripped desktops**, welcome 
 ## GitHub Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BclayDrius&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BclayDrius&repo=maxgrind)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BclayDrius&repo=maxgrind)](https://github.com/BclayDrius/maxgrind)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BclayDrius&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
