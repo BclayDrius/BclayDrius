@@ -1,4 +1,4 @@
-# BclayDrius 👋 | Handsome Linux User 🐧💻
+# BclayDrius 👋 | FullStack Developer 🐧💻
 
 [![Banner Image](https://i.imgur.com/OzfP5UO.png)](https://barclayleach.vercel.app/)
 
