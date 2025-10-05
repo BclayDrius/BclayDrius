@@ -12,7 +12,6 @@ I’m a fusion of **tech obsession**, **fitness madness**, and **curiosity for t
 - 🔭 **Current Projects:**  
   - **MaXGrind 💪** – Powerlifting & hypertrophy platform  
   - **Zent Academy 🧑🏻‍🏫** – (Stay tuned…)  
-  - **Macerados Emperador Inka 🇵🇪** – Homegrown project with Peruvian vibes  
 
 - 🌱 **Learning:**  
   - Next.js + React  
