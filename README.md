@@ -1,46 +1,46 @@
-# BclayDrius 👋 | FullStack Developer 🐧💻
+# ⚡ THE HYBRID: BARCLAY LEACH 👋
+### [ Full-Stack Developer | Bilingual Interpreter | Systems Engineering Student ]
 
-[![Banner Image](https://i.imgur.com/OzfP5UO.png)](https://barclayleach.vercel.app/)
+> "If your Linux desktop looks **legendary**, your code should be **illegal**, and your PRs should be **masive**."
 
-They say if your Linux desktop looks **legendary**, you better look proportionally *illegal*—like rocking Gentoo + Hyprland while benching in the gym. Yeah… that’s me. But we’re here to change the `cmatrix` and push the limits of both **style and gains**. I invite you to use **MaXGrind** to rice your physique like a Tailwind page. 😉
-
----
-
-## About Me
-I’m a fusion of **tech obsession**, **fitness madness**, and **curiosity for the world**:
-
-- 🔭 **Current Projects:**  
-  - **MaXGrind 💪** – Powerlifting & hypertrophy platform  
-  - **Zent Academy 🧑🏻‍🏫** – (Stay tuned…)  
-
-- 🌱 **Learning:**  
-  - Next.js + React  
-  - Django backend magic  
-  - Japanese 🇯🇵 (because reading kanji is fun)  
-
-- 💬 **Ask me about:**  
-  - Linux & ricing desktops 🐧  
-  - MMA, UFC, and Gym life 💪  
-  - Weird tech combos that somehow work  
-
-- 📫 **Reach me:** `b_clay` on Discord  
-
-- 😄 **Pronouns:** bar/clay  
-- ⚡ **Fun Fact:** I genuinely love everything above.  
+I operate at the intersection of **high-performance computing** and **high-intensity training**. Whether I'm ricing a Gentoo kernel, bridging linguistic divides in real-time, or hitting a new PR in the gym, I aim for zero latency and maximum impact.
 
 ---
 
-## Why Follow Along?
-If you like **ripped code**, **ripped gains**, and **ripped desktops**, welcome to the chaos. I’m here to share projects, learn out loud, and sprinkle some MMA energy on your GitHub feed.  
+## 🛠️ THE KERNEL (Tech Stack)
+* **Core:** Typescript, React, Next.js, Node.js, Express, Django.
+* **Infrastructure:** WordPress (Custom PHP Plugins), SQL/NoSQL, Technical SEO.
+* **Environment:** **Arch + Hyprland VMming** 🐧 (Because ricing is a lifestyle).
 
 ---
 
-> “Work hard, rice harder.” – Probably me, somewhere in Hyprland. 😉
+## 🚀 MY MODULES (Ongoing Projects + Jobs)
+* **[KetBia.com](https://ketbia.com):** Spearheading digital transformation for a high-performance fitness platform. Leading systems architecture and payment gateway integration.
+* **[BaronClub.es](https://baronclub.es):** Developed a premium web ecosystem. Engineered a custom WordPress reservation plugin utilizing **Telegram Bot API** and **SMTP** for automated business management.
+* **Teleperformance / LLS:** Executing high-accuracy, real-time consecutive interpretation (EN/ES) for specialized medical, legal, and financial sectors.
+* **Teleperformance / Nordstrom:** Managed international accounts and incident resolution for the US market (Multichannel Support).
 
-## GitHub Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BclayDrius&theme=github-dark-blue)](https://git.io/streak-stats)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BclayDrius&repo=maxgrind&theme=transparent)](https://github.com/BclayDrius/maxgrind)
+## 🥋 BIOS & HARDWARE (Beyond the Terminal)
+When I'm not overlocking my dev environment, I'm stress-testing my own hardware:
+* **Combat:** Muay Thai, Judo, BJJ & MMA 🥊
+* **Strength:** Powerlifting & Bodybuilding.
+* **Soundtrack:** Vocaloid & Touhou doujin music on loop 🎧
+* **Linguistics:** Native/Bilingual English & Spanish. Currently parsing **Japanese** 🇯🇵 (reading Kanji is the ultimate debugging).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BclayDrius&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 📬 THE SOCKET (Contact)
+* **Email:** [barclaydario@gmail.com](mailto:barclaydario@gmail.com)
+* **Instagram:** [@barclayleach_](https://instagram.com/barclayleach_)
+* **Location:** La Merced, Junín, Peru 🇵🇪
+
+---
+
+## 📊 SYSTEM BENCHMARKS
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BclayDrius&theme=github-dark-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BclayDrius&layout=donut&theme=transparent)
+
+---
+> “Bench-press your code, optimize your life.” – Barclay
