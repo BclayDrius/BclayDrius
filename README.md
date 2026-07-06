@@ -122,7 +122,7 @@ const barclay = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BclayDrius&theme=dark&hide_border=true&background=0d1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BclayDrius&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF88" alt="Top Langs" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BclayDrius&theme=github_dark" alt="Top Languages" height="165"/>
 
 </div>
 
