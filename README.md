@@ -75,7 +75,6 @@ const barclay = {
 |---------|-------|--------------|
 | **[Cernext](https://cernextec.com)** | Next.js 16 · React 19 · Supabase · Tailwind v4 · LLM APIs | Digital agency platform — web dev, SEO, Google & Meta Ads, ERP/CRM, and AI chat automation across 5 verticals, with multi-language routing |
 | **[MaxGrind](https://www.maxgrind.app)** | React Native · Expo · Supabase | MMA & strength-training tracker — 200+ curated exercises for powerlifting, bodybuilding, and combat sports |
-| **Aguxtin** | Next.js · GSAP · ScrollTrigger · Lenis | Immersive scrollytelling landing page — multi-scene animations, audio-synced breathing sequence, dynamic day/night cycle, embedded in WordPress via iframe |
 | **[KetBia](https://ketbia.com)** | Next.js · Payments · SEO | Fitness coaching platform — systems architecture, payment gateway integration, digital product funnels |
 | **[Barón Club](https://baronclub.es)** | WordPress · Telegram Bot API · Google & Meta Ads | Premium web ecosystem with a custom automated reservation plugin and paid media strategy |
 | **Zent Piper** | React · Vercel · Cloudflare | Led full frontend of the agency's official site — deployment, custom domain, and SEO |
