@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=BARCLAY%20LEACH&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=CEO%20%40%20Cernext%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bilingual%20Interpreter&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=BCLAY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=CEO%20%40%20Cernext%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bilingual%20Interpreter&descSize=16&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF88&center=true&vCenter=true&width=600&lines=Ship+fast.+Lift+heavy.+Debug+kanji.;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+GSAP;Building+Cernext+%E2%80%94+one+deploy+at+a+time." alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-barclayleach.vercel.app-39FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://barclayleach.vercel.app)
 [![Cernext](https://img.shields.io/badge/Agency-cernextec.com-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://cernextec.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-barclay--leach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/barclay-leach/)
 [![Email](https://img.shields.io/badge/Email-barclaydario%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:barclaydario@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40barclayleach__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/barclayleach_)
+[![Instagram](https://img.shields.io/badge/Instagram-%40bclay__es-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/bclay_es/)
 
 <img src="https://img.shields.io/badge/Lima%2C%20Peru-🇵🇪-0d1117?style=flat-square&labelColor=0d1117" alt="Location"/>
 
@@ -24,7 +22,7 @@
 CEO & Co-founder of **[Cernext](https://cernextec.com)** — a full-service digital agency delivering web development, technical SEO, Google & Meta Ads, ERP/CRM systems, and AI chat automation. Professional **EN/ES interpreter at LanguageLine Solutions** for medical, legal, and financial sectors. Systems Engineering student at Universidad Continental. I operate at the intersection of high-performance software and high-intensity training: zero latency, maximum impact.
 
 ```typescript
-const barclay = {
+const bclay = {
   role: "CEO & Full-Stack Developer",
   agency: "Cernext",
   core: ["TypeScript", "React 19", "Next.js 16", "Node.js", "React Native"],
