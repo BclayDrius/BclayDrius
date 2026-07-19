@@ -8,7 +8,7 @@
 
 [![Cernext](https://img.shields.io/badge/Agency-cernextec.com-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://cernextec.com)
 
-[![Email](https://img.shields.io/badge/Email-barclaydario%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:barclaydario@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bclaydrius%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bclaydrius@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40bclay__es-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/bclay_es/)
 
 <img src="https://img.shields.io/badge/Lima%2C%20Peru-🇵🇪-0d1117?style=flat-square&labelColor=0d1117" alt="Location"/>
