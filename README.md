@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=BCLAY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=CEO%20%40%20Cernext%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bilingual%20Interpreter&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=BCLAY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Founder%20%40%20Cernext%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bilingual%20Interpreter&descSize=16&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF88&center=true&vCenter=true&width=600&lines=Ship+fast.+Lift+heavy.+Debug+kanji.;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+GSAP;Building+Cernext+%E2%80%94+one+deploy+at+a+time." alt="Typing SVG" />
 
@@ -19,11 +19,11 @@
 
 ## ⚡ Runtime
 
-CEO & Co-founder of **[Cernext](https://cernextec.com)** — a full-service digital agency delivering web development, technical SEO, Google & Meta Ads, ERP/CRM systems, and AI chat automation. Professional **EN/ES interpreter at LanguageLine Solutions** for medical, legal, and financial sectors. Systems Engineering student at Universidad Continental. I operate at the intersection of high-performance software and high-intensity training: zero latency, maximum impact.
+Founder of **[Cernext](https://cernextec.com)** — a full-service digital agency delivering web development, technical SEO, Google & Meta Ads, ERP/CRM systems, and AI chat automation. Professional **EN/ES interpreter at LanguageLine Solutions** for medical, legal, and financial sectors. Systems Engineering student at Universidad Continental. I operate at the intersection of high-performance software and high-intensity training: zero latency, maximum impact.
 
 ```typescript
 const bclay = {
-  role: "CEO & Full-Stack Developer",
+  role: "Founder & Full-Stack Developer",
   agency: "Cernext",
   core: ["TypeScript", "React 19", "Next.js 16", "Node.js", "React Native"],
   animation: ["GSAP", "ScrollTrigger", "Lenis"],
